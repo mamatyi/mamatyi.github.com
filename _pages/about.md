@@ -9,8 +9,8 @@ redirect_from:
 
 
 Melanie Matyi is a Postdoctoral Researcher in the [Penn Frontotemporal Degeneration Center (FTDC)](https://www.pennftdcenter.org/), mentored by [Dr. Lauren Massimo](https://www.nursing.upenn.edu/live/profiles/15656-lauren-massimo) and [Dr. Corey McMillan](https://www.pennftdcenter.org/team-2/corey-mcmillan-phd). Her interests
-are at the intersection of neuroimaging (e.g., fMIR), data science, and neuropsychiatric disorders. 
+are at the intersection of neuroimaging (e.g., fMIR, diffusion-weighted MRI), data science, and neuropsychiatric disorders. 
 
-Her current research aims to identify imaging-based biomarkers for disease monitoring and precision medicine with a particular focus on the neural mechanisms contributing to neuropsychiatric symptoms and executive dysfunction in behavioral variant frontotemporal degeneration.
+Her current research aims to understand how brain network connectivity contributes to the neuropsychiatric symptoms of bvFTD (a rare type of dementia). Her goal is to identify imaging-based biomarkers for bvFTD that allow early and accurate detection of disease progression and that can also help inform effective treatment. 
 
-Melanie received her PhD in Clinical Science with a focus on neuroimaging methods from the University of Delaware in 2023. Prior to graduate school, she received a Bachelor of Science in Neuroscience from the University of Pittsburgh. 
+Melanie joined the FTD Center after completing her PhD in Clinical Psychology at the University of Delaware in 2023. At Delaware, she conducted research focused on the neural mechanisms of emotion processes associated with neuropsychiatric disorders. Prior to graduate school, Melanie received a Bachelor of Science in Neuroscience from the University of Pittsburgh.
