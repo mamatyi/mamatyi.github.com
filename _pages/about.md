@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Melanie Matyi is a Postdoctoral Researcher in the Penn Frontotemporal Degeneration Center (FTDC)."
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
