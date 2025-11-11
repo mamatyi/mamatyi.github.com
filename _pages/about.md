@@ -17,8 +17,8 @@ Melanie joined the FTD Center after completing her PhD in Clinical Psychology at
 
 ### My work at a high level
 
-- Mapping the brain's "wiring": I use advanced brain imaging (like MRI) and network analysis to map the structural and functional connections between brain regions. This helps reveal how the brain is organized to support complex functions like memory, emotion regulation, and decision-making.
+- Mapping the brain's structure: I use advanced brain imaging (like MRI) and network analysis to map the structural and functional connections between brain regions. This helps reveal how the brain is organized to support complex functions like memory, emotion regulation, and decision-making.
 
-- Understanding Brain-Behavior Links: I investigate how individual differences in these brain networks relate to behavior and risk for mental health conditions. This includes studying topics like anxiety, bipolar disorder, depression, and frontotemporal dementia (FTD).
+- Understanding brain-behavior Links: I investigate how individual differences in these brain networks relate to behavior and risk for mental health conditions. This includes studying topics like anxiety, bipolar disorder, depression, and frontotemporal dementia (FTD).
 
-- Tracking Brain Development and Risk: I examine how brain networks mature from childhood through adolescence and into adulthood, and how factors like parental anxiety or genetics can influence brain development and future mental health outcomes.
+- Tracking brain development and risk: I examine how brain networks mature from childhood through adolescence and into adulthood, and how factors like parental anxiety or genetics can influence brain development and future mental health outcomes.
